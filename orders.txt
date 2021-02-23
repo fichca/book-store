@@ -1,0 +1,7 @@
+#ID TOTAL_PRICE STATUS USER_ID STORE_ID ADDRESS_ID 
+1 1 ACTIVE 1 -1 15 
+Id books: 1 
+2 2 ACTIVE 1 -1 16 
+Id books: 1 4 
+3 1 ACTIVE 1 2 -1 
+Id books: 1 

@@ -1,0 +1,5 @@
+#ID LOGIN PASSWORD FIRST_NAME LAST_NAME AGE ROLE ADDRESS_ID 
+1 user user USER user 24 USER 17 
+2 admin admin admin admin 24 ADMIN 2 
+4 user2 user2 user2 user2 22 USER 8 
+5 fichca fichca Philip Liatkovski 24 USER 19 
